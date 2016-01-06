@@ -1,0 +1,14 @@
+.best {
+  font-weight: bold;
+  color: purple;
+}
+
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+img {
+  height: 300px;
+  width: auto;
+}
