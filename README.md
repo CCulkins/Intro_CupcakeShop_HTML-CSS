@@ -1,6 +1,6 @@
 # _CupcakeShop README_
 
-#### _A small cupcake webpage, January 05, 2016_
+#### _A small cupcake webpage, January 06, 2016_
 
 #### By _**Anna Lawley & Cassandra Culkins**_
 
