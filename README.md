@@ -24,8 +24,8 @@ _If there are any questions, ideas or concerns, feel free to contact Cassandra C
 ## Technologies Used
 
 _HTML was used to write this webpage._
-_CSS was used to style the page.
+CSS was used to style the page.
 
 ### License
 
-Copyright (c) 2016 **_Hillary Hintzen & Cassandra Culkins_**
+Copyright (c) 2016 **_Anna Lawley & Cassandra Culkins_**
